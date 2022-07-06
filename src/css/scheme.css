@@ -1,0 +1,76 @@
+@media (prefers-color-scheme: light){
+body{
+    background-color: white;
+    color: black;
+}
+#videos{
+    background-color: white;
+}
+header{
+    background-image: url(../img/halo-infinite-cover.jpeg);
+}
+nav{
+    background-color: rgba(255, 255, 255, 0.4);
+}
+nav ul li a{
+    color: rgb(55, 54, 54);
+    font-family: sans-serif;
+  
+}
+nav ul li .link::before{
+    background-color: rgb(28, 231, 10);
+}
+nav .mobile .header{
+    background-color: rgba(255, 255, 255, 1);
+}
+nav .mobile .header a{
+    color: black;
+}
+nav .mobile .header #bmenu{
+color: black;
+}
+nav .mobile .links{
+    background-color: white;
+}
+nav .mobile .links a{
+    color: black;
+}
+#banner{
+    background-color: white;
+    color: black;
+}
+h2::before{
+    background-color: rgb(115, 177, 20);
+}
+.green-button{
+    background-color: rgb(115, 177, 20);
+}
+.green-button:hover{
+background-color: greenyellow;
+}
+.green-link{
+    color: rgb(115, 177, 20);
+}
+.green-link::before{
+    background-color: rgb(133, 210, 19);
+}
+h3{
+    color: black;
+}
+#videos{
+    color: black;
+}
+#get-the-game{
+    color: black;
+}
+#get-the-game h2{
+    color: black;
+}
+
+footer{
+    background-image: url(../img/master-chief.jpg);
+}
+}
+@media (prefers-color-scheme: dark){
+
+}

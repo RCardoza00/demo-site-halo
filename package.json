@@ -1,0 +1,17 @@
+{
+  "name": "halo-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   "dev": "vite",
+   "build": "vite build"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^2.9.13"
+  }
+}
